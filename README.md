@@ -6,6 +6,4 @@ Hold the Cloud!
 ## About
 HTML5 & Javascript game inspired on the exhaled nitric oxide medical test for asthmatics consisting to blow in order to maintain a cloud between a delimited strips for a period of time.
 
-This was my first game and I developed this in 48h in a weekend.
-
-Developed by me ([David Burgos](http://about.me/davidburgos)) for [JS13KGames 2012](js13kgames.com/entries/2012) competition
+This was my first game, developed in 48h during a weekend for the [JS13KGames 2012](js13kgames.com/entries/2012) competition
